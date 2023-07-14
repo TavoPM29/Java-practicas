@@ -1,8 +1,8 @@
-package test;
+package ejercicios;
 
 import java.util.Scanner;
 
-public class claseScaner {
+public class ejerciciolibro {
     public static void main(String[] args) {
         System.out.println("Escribe tu nombre:");
         try (Scanner consolScanner = new Scanner(System.in)) {
