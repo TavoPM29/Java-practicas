@@ -1,5 +1,4 @@
 package Fundamentos;
-
 //anexo teoria que he ido practicando del curso para registro propio
 
 public class Variables {
@@ -67,4 +66,5 @@ public class Variables {
         
 
     }
+    
 }
